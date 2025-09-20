@@ -29,17 +29,17 @@ This project helps gyms manage members, trainers, schedules, payments, and more 
 ## 📸 Screenshots
 
 ### 1. Home Dashboard
-![Dashboard](screenshots/Screenshot 2025-09-20 195311.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### 2. Members Page
-![Members](screenshots/Screenshot 2025-09-20 195352.png)
-![Membership](screenshots/Screenshot 2025-09-20 195424.png)
+![Members](screenshots/members.png)
+![Membership](screenshots/membership.png)
 
 ### 3. Schedule Management
-![Schedule](screenshots/Screenshot 2025-09-20 195514.png)
+![Schedule](screenshots/schedule.png)
 
 ### 4. Plans Page
-![Plans](screenshots/Screenshot 2025-09-20 195542.png)
+![Plans](screenshots/plans.png)
 
 > 💡 All your images in a folder called `screenshots` inside the repo.
 
@@ -50,6 +50,7 @@ This project helps gyms manage members, trainers, schedules, payments, and more 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Yangbel1628/Gym-Management-System.git
+
 
 
 
