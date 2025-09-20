@@ -39,9 +39,9 @@ This project helps gyms manage members, trainers, schedules, payments, and more 
 ![Schedule](screenshots/Screenshot 2025-09-20 195514.png)
 
 ### 4. Plans Page
-![Plans](screenshots/)
+![Plans](screenshots/Screenshot 2025-09-20 195542.png)
 
-> 💡 Tip: Place all your images in a folder called `screenshots` inside the repo.
+> 💡 All your images in a folder called `screenshots` inside the repo.
 
 ---
 
@@ -49,7 +49,8 @@ This project helps gyms manage members, trainers, schedules, payments, and more 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Gym-Management-System.git
+   git clone https://github.com/Yangbel1628/Gym-Management-System.git
+
 
 
 
