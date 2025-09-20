@@ -28,7 +28,7 @@ Extras: AJAX for asynchronous data operations, Select2 for enhanced dropdowns
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/YourUsername/Gym-Management-System.git
+git clone https://github.com/Yangbel1628/gym-manager
 
 
 2️⃣ Move the project to your local server (e.g., htdocs in XAMPP).
@@ -42,11 +42,12 @@ $conn = new mysqli('localhost', 'username', 'password', 'gymdb');
 
 5️⃣ Run the project in your browser:
 
-http://localhost/Gym-Management-System/
+http://localhost/gym/login.php
 
 💡 How to Use
 
-Login with admin credentials
+Login with admin credentials 
+username= admin password = 12345
 
 Manage members, trainers, schedules, and payments easily
 
@@ -67,3 +68,4 @@ Open to feedback and collaboration
 📝 License
 
 This project is for educational purposes only – no license applied.
+
