@@ -33,7 +33,7 @@ This project helps gyms manage members, trainers, schedules, payments, and more 
 
 ### 2. Members Page
 ![Members](screenshots/Screenshot 2025-09-20 195352.png)
-![Membership](screenshots/)
+![Membership](screenshots/Screenshot 2025-09-20 195424.png)
 
 ### 3. Schedule Management
 ![Schedule](screenshots/schedule.png)
@@ -50,5 +50,6 @@ This project helps gyms manage members, trainers, schedules, payments, and more 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/Gym-Management-System.git
+
 
 
