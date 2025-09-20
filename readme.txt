@@ -1,71 +1,51 @@
-🏋️‍♂️ Gym Management System
+# 🏋️‍♂️ Gym Management System
 
-A full-featured Gym Management System built with PHP & MySQL to help gym owners manage members, trainers, schedules, memberships, and payments efficiently.
+**A full-featured Gym Management System built with PHP, MySQL, HTML, CSS, and JavaScript.**  
 
-💡 Pro Tip: This project is best run locally using XAMPP/WAMP as it is not hosted online yet.
+This project helps gyms manage members, trainers, schedules, payments, and more in an easy-to-use interface. Perfect for learning full-stack PHP development and building real-world applications! 💻
 
-🚀 Features
+---
 
-✨ User-Friendly Dashboard – Clean admin interface for easy navigation
-👥 Member Management – Add, edit, and delete members
-💪 Trainer Management – Manage your gym trainers effortlessly
-📅 Schedule Management – Create and update member/trainer schedules
-💳 Payment Tracking – Keep track of payments and membership history
-📦 Membership & Packages – Assign plans and packages to members
-⚡ AJAX Powered – Smooth, real-time operations without page reloads
+## 🚀 Features
 
-🛠️ Technologies Used
+- ✅ Member Management (Add, Edit, Delete)
+- ✅ Trainer Management
+- ✅ Schedule Management
+- ✅ Payment Tracking
+- ✅ Responsive Design with HTML/CSS
+- ✅ Interactive UI using JavaScript & jQuery
+- ✅ Secure Login & Admin Panel
 
-Frontend: HTML, CSS, Bootstrap, jQuery, JavaScript
+---
 
-Backend: PHP
+## 🛠️ Technologies Used
 
-Database: MySQL
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery  
+- **Backend:** PHP, MySQL  
+- **Tools:** XAMPP / WAMP for local development  
 
-Extras: AJAX for asynchronous data operations, Select2 for enhanced dropdowns
+---
 
-⚙️ Installation & Setup
+## 📸 Screenshots
 
-1️⃣ Clone the repository:
+### 1. Home Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-git clone https://github.com/Yangbel1628/gym-manager
+### 2. Members Page
+![Members](screenshots/members.png)
 
+### 3. Schedule Management
+![Schedule](screenshots/schedule.png)
 
-2️⃣ Move the project to your local server (e.g., htdocs in XAMPP).
+### 4. Payments Page
+![Payments](screenshots/payments.png)
 
-3️⃣ Create a MySQL database and import gymdb.sql
+> 💡 Tip: Place all your images in a folder called `screenshots` inside the repo.
 
-4️⃣ Update your database connection in db_connect.php:
+---
 
-$conn = new mysqli('localhost', 'username', 'password', 'gymdb');
+## ⚡ How to Run Locally
 
-
-5️⃣ Run the project in your browser:
-
-http://localhost/gym/login.php
-
-💡 How to Use
-
-Login with admin credentials 
-username= admin password = 12345
-
-Manage members, trainers, schedules, and payments easily
-
-All changes are saved in the MySQL database
-
-🌐 Live Demo
-
-⚠️ Note: Currently, this project is not hosted online. You need a local PHP server like XAMPP or WAMP to run and test it.
-
-👨‍💻 Author
-
-Yangbel Khampa – Full-Stack Developer
-
-Passionate about building interactive web applications
-
-Open to feedback and collaboration
-
-📝 License
-
-This project is for educational purposes only – no license applied.
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/Gym-Management-System.git
